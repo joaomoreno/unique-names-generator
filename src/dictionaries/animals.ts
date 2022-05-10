@@ -37,7 +37,6 @@ export default [
   'bobcat',
   'bobolink',
   'bonobo',
-  'booby',
   'bovid',
   'bug',
   'butterfly',

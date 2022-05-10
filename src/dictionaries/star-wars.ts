@@ -78,7 +78,6 @@ export default [
   'Wedge Antilles',
   'Wicket Systri Warrick',
   'Wilhuff Tarkin',
-  'Yarael Poof',
   'Yoda',
   'Zam Wesell',
 ];

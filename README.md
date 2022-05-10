@@ -58,7 +58,6 @@ If you want to migrate, from an older version of the library to v4, please read 
       - [Adjectives](#adjectives)
       - [Animals](#animals)
       - [Colors](#colors)
-      - [Countries](#countries)
       - [Names](#names)
       - [Languages](#languages)
       - [Star Wars](#star-wars)
@@ -308,20 +307,6 @@ const config: Config = {
 }
 
 const characterName: string = uniqueNamesGenerator(config); // red
-```
-
-#### Countries
-
-A list of more than 250 different countries
-
-```typescript
-import { uniqueNamesGenerator, Config, countries } from 'unique-names-generator';
-
-const config: Config = {
-  dictionaries: [countries]
-}
-
-const characterName: string = uniqueNamesGenerator(config); // United Arab Emirates
 ```
 
 #### Names

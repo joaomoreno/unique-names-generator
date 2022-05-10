@@ -7,7 +7,6 @@ export default [
   'Azerbaijani',
   'Balochi',
   'Belarusian',
-  'Bengali',
   'Bhojpuri',
   'Burmese',
   'Cebuano',
