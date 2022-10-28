@@ -485,7 +485,6 @@ export default [
   'impressive',
   'improved',
   'inadequate',
-  'inappropriate',
   'inc',
   'inclined',
   'increased',
