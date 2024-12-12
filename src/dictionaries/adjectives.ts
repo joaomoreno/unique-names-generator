@@ -763,7 +763,6 @@ export default [
   'proposed',
   'prospective',
   'protective',
-  'protestant',
   'proud',
   'provincial',
   'psychiatric',
